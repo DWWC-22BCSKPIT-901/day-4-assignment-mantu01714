@@ -1,3 +1,4 @@
+//Determine the number of days required until no plants die due to having higher pesticide levels than their neighboring plants.
 #include <iostream>
 #include <vector>
 #include <stack>
