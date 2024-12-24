@@ -1,3 +1,4 @@
+//Implement a dynamic stacking system with infinite stacks, supporting operations like push, pop, and popAtStack with efficient management of available space.
 #include <iostream>
 #include <vector>
 #include <set>
