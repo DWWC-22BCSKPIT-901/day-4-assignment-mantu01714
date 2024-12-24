@@ -1,3 +1,4 @@
+// Determine how many students are unable to eat given their preferences and the order of sandwiches in the stack.
 #include <iostream>
 #include <queue>
 #include <vector>
